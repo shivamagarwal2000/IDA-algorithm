@@ -1,7 +1,4 @@
-/* Code modified and written by Shivam Agarwal
- * Student no 951424
- * Assignment 2
- */
+// Code modified and written by Shivam Agarwal
 
 
 #include <stdio.h>
