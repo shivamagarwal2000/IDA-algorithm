@@ -1,4 +1,4 @@
-# IDA-algorithm
+# 15 Puzzle game using IDA*-algorithm
 Implementation of a 15 puzzle game https://en.wikipedia.org/wiki/15_puzzle
 Algorithm
 1. Iterative Deepening A*
